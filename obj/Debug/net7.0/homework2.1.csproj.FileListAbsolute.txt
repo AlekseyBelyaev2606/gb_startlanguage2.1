@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\homework2.1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\homework2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\homework2.1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\homework2.1.AssemblyInfo.cs
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\homework2.1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\bin\Debug\net7.0\homework2.1.exe
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\bin\Debug\net7.0\homework2.1.deps.json
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\bin\Debug\net7.0\homework2.1.runtimeconfig.json
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\bin\Debug\net7.0\homework2.1.dll
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\bin\Debug\net7.0\homework2.1.pdb
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\homework2.1.dll
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\refint\homework2.1.dll
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\homework2.1.pdb
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\homework2.1.genruntimeconfig.cache
+C:\Users\hp\Desktop\c#_lesson1\homework2.1\obj\Debug\net7.0\ref\homework2.1.dll
